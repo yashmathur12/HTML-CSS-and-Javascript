@@ -14,7 +14,7 @@ This repository contains all of the source code used in the course called HTML, 
 
 # Outputs :
 
-* [Module-2]()
-* [Module-3]()
-* [Module-4]()
-* [Module-5]()
+* [Module-2](https://yashmathur12.github.io/HTML-CSS-and-Javascript/Assignments/module%202-solution/index.html)
+* [Module-3](https://yashmathur12.github.io/HTML-CSS-and-Javascript/Assignments/module%203-solution/index.html)
+* [Module-4](https://yashmathur12.github.io/HTML-CSS-and-Javascript/Assignments/module%204-solution/index.html)
+* [Module-5](https://yashmathur12.github.io/HTML-CSS-and-Javascript/Assignments/module%205-solution/index.html)
